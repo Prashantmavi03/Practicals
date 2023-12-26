@@ -1,0 +1,2 @@
+Hello, this is a file write operation.
+This data is appended to the file.
